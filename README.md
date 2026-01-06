@@ -1,4 +1,4 @@
-#👋 Hi, I’m Sourav
+# 👋 Hi, I’m Sourav
 
 🎓 Electrical Engineering undergraduate at Indian Institute of Technology Jodhpur, India  
 
