@@ -1,19 +1,16 @@
-Hi, I'm Sourav 👋
+👋 Hi, I’m Sourav
 
-I'm a Electrical Engineering student from Indian Institute of Technology Jodhpur, India with strong interest in :
-- Systems programming
-- Compilers & language tooling
-- Backend engineering
-- Data Structures and Algorithms
+🎓 Electrical Engineering undergraduate at Indian Institute of Technology Jodhpur, India  
 
-### What I'm working on
-- Exploring compiler and systems-level codebase in C++
-- Building backend systems with Node.js and MongoDB
-- Strengthening problem-solving skills
+💻 Interested in systems programming, backend engineering, and problem solving
 
-### Tech Stack 
+🛠️ I have experience building projects using C++ and JavaScript, including work with file I/O, version control internals, and algorithmic problem solving.
+
+🌱 Currently learning and exploring large codebases and system-level concepts  
+🚀 Looking forward to contributing to open-source projects and collaborating on real-world software systems
+
+🔧 Tech Stack:
 - Languages: C++, C, Python, JavaScript
-- Tools: Git, STL, Linux (basic)
+- Core CS: Data Structures, Algorithms, Graphs
+- Systems: File I/O, Version Control Internals (practical exposure)
 - Backend: Node.js, Express.js, MongoDB
-
-Looking forward to contribute to open source project.
