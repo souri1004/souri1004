@@ -1,6 +1,6 @@
 Hi, I'm Sourav 👋
 
-I'm a B.Tech Electrical Engineering student at IIT Jodhpur with strong interest in :
+I'm a Electrical Engineering student from Indian Institute of Technology Jodhpur, India with strong interest in :
 - Systems programming
 - Compilers & language tooling
 - Backend engineering
@@ -16,4 +16,4 @@ I'm a B.Tech Electrical Engineering student at IIT Jodhpur with strong interest 
 - Tools: Git, STL, Linux (basic)
 - Backend: Node.js, Express.js, MongoDB
 
-Feel free to explore my repositories or reach out for collaboration.
+Looking forward to contribute to open source project.
