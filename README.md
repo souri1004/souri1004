@@ -19,13 +19,6 @@ I enjoy building scalable services, understanding how systems fail, and designin
 
 ---
 
-### 🛠️ How I Build Software
-- Start with clear problem definitions and constraints
-- Design for failure, not just the happy path
-- Prefer simple, maintainable solutions over clever abstractions
-- Optimize only after measuring performance
-
----
 
 ### 🧪 Past Experience
 - Built full-stack web applications with backend-heavy logic
