@@ -1,16 +1,38 @@
-# 👋 Hi, I’m Sourav
+# Hi, I'm Sourav 👋
 
-🎓 Electrical Engineering undergraduate at Indian Institute of Technology Jodhpur, India  
+Pre Final year engineering student focused on **backend engineering and system design**.  
+I enjoy building scalable services, understanding how systems fail, and designing software that holds up under real-world constraints.
 
-💻 Interested in systems programming, backend engineering, and problem solving
+---
 
-🛠️ I have experience building projects using C++ and JavaScript, including work with file I/O, version control internals, and algorithmic problem solving.
+## 🚧 What I'm Currently Working On
+- Designing backend services with scalability, caching, and rate-limiting in mind
+- Building end-to-end web & app systems (API → database → client)
+- Exploring production-grade system design patterns
 
-🌱 Currently learning and exploring large codebases and system-level concepts  
-🚀 Looking forward to contributing to open-source projects and collaborating on real-world software systems
+---
 
-🔧 Tech Stack:
-- Languages: C++, C, Python, JavaScript
-- Core CS: Data Structures, Algorithms, Graphs
-- Systems: File I/O, Version Control Internals (practical exposure)
-- Backend: Node.js, Express.js, MongoDB
+## 🧠 Currently Learning
+- Distributed system fundamentals (load balancing, replication, sharding)
+- Database internals and query optimization
+- Designing APIs for scale and reliability
+
+---
+
+## 🛠️ How I Build Software
+- Start with clear problem definitions and constraints
+- Design for failure, not just the happy path
+- Prefer simple, maintainable solutions over clever abstractions
+- Optimize only after measuring performance
+
+---
+
+## 🧪 Past Experience
+- Built full-stack web applications with backend-heavy logic
+- Developed mobile apps with real-time data and API integration
+- Worked across frontend, backend, and database layers
+
+---
+
+
+📫 Reach me at: sourav041005@gmail.com
